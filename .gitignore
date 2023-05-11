@@ -1,0 +1,5 @@
+/nodejs-backend/node_modules/
+/nodejs-backend/.env
+
+/vite-frontend/node_modules/
+/nextjs-frontend/node_modules/
